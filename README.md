@@ -1,4 +1,5 @@
-
+- She/Her Ela/Dela
+2 Período (Ciencia da Computação)
 
 <div align="center">
   <a href="https://github.com/JuhGhilardi">
