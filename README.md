@@ -1,9 +1,3 @@
-- She/Her 
-
-Ela/Dela
-
-2 Período (Ciencia da Computação)
-
 <div align="center">
   <a href="https://github.com/JuhGhilardi">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JuhGhilardi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
