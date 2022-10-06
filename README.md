@@ -1,4 +1,7 @@
-- She/Her Ela/Dela
+- She/Her 
+
+Ela/Dela
+
 2 Período (Ciencia da Computação)
 
 <div align="center">
